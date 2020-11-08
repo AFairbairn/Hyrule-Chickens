@@ -1,0 +1,39 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HylianChicken",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hylian_chicken"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.hyrule_chickens.hylian_chicken": "Hylian Chicken Spawn Egg",
+      "entity.hyrule_chickens.hylian_chicken": "Hylian Chicken"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "hyrule_chickens",
+    "modName": "Hyrule Chickens",
+    "version": "1.0.0",
+    "author": "Wes-PC, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.hyrulechickens",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
