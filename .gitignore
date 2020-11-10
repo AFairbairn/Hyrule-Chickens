@@ -5,6 +5,8 @@ build/
 # Other IDE related folders
 .idea/
 .settings/
+.project
+.classpath
 
 # MCreator workspace
 .mcreator/
